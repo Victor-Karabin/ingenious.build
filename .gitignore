@@ -4,9 +4,6 @@
 # Log file
 *.log
 
-#Mac
-.DS_Store
-
 # Package Files #
 *.jar
 *.war
