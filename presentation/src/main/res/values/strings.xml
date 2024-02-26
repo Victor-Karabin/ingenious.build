@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Code task: Ingenious.Build</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_loading">Loading</string>
+    <string name="common_error_occurred">Sorry, an error occurred. Please try again later.</string>
+    <string name="user_list_avatar">\'s avatar</string>
+    <string name="user_details_id">ID</string>
+    <string name="user_details_username">Username</string>
+    <string name="user_details_node_id">Node ID</string>
+    <string name="user_details_type">User type</string>
+    <string name="user_details_name">Name</string>
+    <string name="user_details_company">Company</string>
+    <string name="user_details_email">Email</string>
+    <string name="user_details_created_at">Created at</string>
+    <string name="user_details_updated_at">Updated at</string>
+</resources>
